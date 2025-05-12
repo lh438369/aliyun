@@ -1,1 +1,1 @@
-centos
+openvpn/openvpn-as
